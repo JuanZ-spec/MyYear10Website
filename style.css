@@ -78,3 +78,13 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
+.topic-title2{
+    text-align: center;
+    background-color: rgb(84, 54, 59);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    padding: 0.1em 3em;
+    color: beige;
+    font-size: 1.5em;
+ 
+}
