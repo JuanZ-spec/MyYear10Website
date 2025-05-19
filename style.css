@@ -51,6 +51,7 @@ img {
     width: 70%;
     /* top margin of 3em and center right/left */
     margin: 3em auto;
+    background-color: black(58, 30, 34);
 }
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
@@ -76,7 +77,8 @@ img {
     background-color: rgb(154, 123, 120);
     color: white;
     text-align: right;
-    padding: 3em 3em;
+    padding: 0.7em 3em;
+    font-size: 1.5em;
 }
 
 .topic-title2{
