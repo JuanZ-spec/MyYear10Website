@@ -23,9 +23,9 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: beige;
     text-align: center;
     position: relative;
+    color: beige;
 }
 
 /* BIG text styling for the hero section text */
