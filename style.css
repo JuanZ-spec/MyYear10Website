@@ -88,5 +88,9 @@ img {
     padding: 0.1em 3em;
     color: beige;
     font-size: 1.5em;
- 
+}
+
+video{
+    margin: 0 auto;
+    display: block;
 }
